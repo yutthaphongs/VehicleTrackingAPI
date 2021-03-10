@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "D68fWScvZoB8UJXPFzKwACzhelUI1BjrVfFa3n6QeTVqJ+QAwkqbWm33YNlvsZAVPduaRwCRN6lbh4ztYiCMPg==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\VehicleTrackingAPI\\common\\eventbusrabbitmq\\EventBusRabbitMQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pu_ro\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\pu_ro\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\pu_ro\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

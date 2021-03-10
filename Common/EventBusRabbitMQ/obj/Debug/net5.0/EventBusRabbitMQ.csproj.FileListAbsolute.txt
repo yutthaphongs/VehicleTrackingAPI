@@ -1,0 +1,12 @@
+D:\Repos\VehicleTrackingAPI\common\eventbusrabbitmq\obj\Debug\net5.0\EventBusRabbitMQ.csprojAssemblyReference.cache
+D:\Repos\VehicleTrackingAPI\common\eventbusrabbitmq\obj\Debug\net5.0\EventBusRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\VehicleTrackingAPI\common\eventbusrabbitmq\obj\Debug\net5.0\EventBusRabbitMQ.AssemblyInfoInputs.cache
+D:\Repos\VehicleTrackingAPI\common\eventbusrabbitmq\obj\Debug\net5.0\EventBusRabbitMQ.AssemblyInfo.cs
+D:\Repos\VehicleTrackingAPI\common\eventbusrabbitmq\obj\Debug\net5.0\EventBusRabbitMQ.csproj.CoreCompileInputs.cache
+D:\Repos\VehicleTrackingAPI\common\eventbusrabbitmq\bin\Debug\net5.0\EventBusRabbitMQ.deps.json
+D:\Repos\VehicleTrackingAPI\common\eventbusrabbitmq\bin\Debug\net5.0\EventBusRabbitMQ.dll
+D:\Repos\VehicleTrackingAPI\common\eventbusrabbitmq\bin\Debug\net5.0\ref\EventBusRabbitMQ.dll
+D:\Repos\VehicleTrackingAPI\common\eventbusrabbitmq\bin\Debug\net5.0\EventBusRabbitMQ.pdb
+D:\Repos\VehicleTrackingAPI\common\eventbusrabbitmq\obj\Debug\net5.0\EventBusRabbitMQ.dll
+D:\Repos\VehicleTrackingAPI\common\eventbusrabbitmq\obj\Debug\net5.0\ref\EventBusRabbitMQ.dll
+D:\Repos\VehicleTrackingAPI\common\eventbusrabbitmq\obj\Debug\net5.0\EventBusRabbitMQ.pdb

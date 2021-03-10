@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ekoEW0JzE82UtmklmSrnbplFzKq9JlG0ezRr6yqlopKxsUn8qG4r0Sdcru15xyVgToJTZGOxUIkLw9pYKw3urA==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\VehicleTrackingAPI\\CommonLib\\EventBus\\EventBus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pu_ro\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
