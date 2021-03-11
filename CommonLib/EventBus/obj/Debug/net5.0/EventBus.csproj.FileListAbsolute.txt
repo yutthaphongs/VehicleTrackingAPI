@@ -10,3 +10,15 @@ D:\Repos\VehicleTrackingAPI\CommonLib\eventbus\obj\Debug\net5.0\EventBus.csproj.
 D:\Repos\VehicleTrackingAPI\CommonLib\eventbus\obj\Debug\net5.0\EventBus.dll
 D:\Repos\VehicleTrackingAPI\CommonLib\eventbus\obj\Debug\net5.0\ref\EventBus.dll
 D:\Repos\VehicleTrackingAPI\CommonLib\eventbus\obj\Debug\net5.0\EventBus.pdb
+D:\Repos\VehicleTrackingAPI-Microservice\CommonLib\EventBus\bin\Debug\net5.0\EventBus.deps.json
+D:\Repos\VehicleTrackingAPI-Microservice\CommonLib\EventBus\bin\Debug\net5.0\EventBus.dll
+D:\Repos\VehicleTrackingAPI-Microservice\CommonLib\EventBus\bin\Debug\net5.0\ref\EventBus.dll
+D:\Repos\VehicleTrackingAPI-Microservice\CommonLib\EventBus\bin\Debug\net5.0\EventBus.pdb
+D:\Repos\VehicleTrackingAPI-Microservice\CommonLib\EventBus\obj\Debug\net5.0\EventBus.csprojAssemblyReference.cache
+D:\Repos\VehicleTrackingAPI-Microservice\CommonLib\EventBus\obj\Debug\net5.0\EventBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\VehicleTrackingAPI-Microservice\CommonLib\EventBus\obj\Debug\net5.0\EventBus.AssemblyInfoInputs.cache
+D:\Repos\VehicleTrackingAPI-Microservice\CommonLib\EventBus\obj\Debug\net5.0\EventBus.AssemblyInfo.cs
+D:\Repos\VehicleTrackingAPI-Microservice\CommonLib\EventBus\obj\Debug\net5.0\EventBus.csproj.CoreCompileInputs.cache
+D:\Repos\VehicleTrackingAPI-Microservice\CommonLib\EventBus\obj\Debug\net5.0\EventBus.dll
+D:\Repos\VehicleTrackingAPI-Microservice\CommonLib\EventBus\obj\Debug\net5.0\ref\EventBus.dll
+D:\Repos\VehicleTrackingAPI-Microservice\CommonLib\EventBus\obj\Debug\net5.0\EventBus.pdb

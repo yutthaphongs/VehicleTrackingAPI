@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repos\\VehicleTrackingAPI\\curentpositionservice\\CurentPositionService.csproj": {}
+    "D:\\Repos\\VehicleTrackingAPI-Microservice\\curentpositionservice\\CurentPositionService.csproj": {}
   },
   "projects": {
-    "D:\\Repos\\VehicleTrackingAPI\\curentpositionservice\\CurentPositionService.csproj": {
+    "D:\\Repos\\VehicleTrackingAPI-Microservice\\curentpositionservice\\CurentPositionService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\VehicleTrackingAPI\\curentpositionservice\\CurentPositionService.csproj",
+        "projectUniqueName": "D:\\Repos\\VehicleTrackingAPI-Microservice\\curentpositionservice\\CurentPositionService.csproj",
         "projectName": "CurentPositionService",
-        "projectPath": "D:\\Repos\\VehicleTrackingAPI\\curentpositionservice\\CurentPositionService.csproj",
+        "projectPath": "D:\\Repos\\VehicleTrackingAPI-Microservice\\curentpositionservice\\CurentPositionService.csproj",
         "packagesPath": "C:\\Users\\pu_ro\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\VehicleTrackingAPI\\curentpositionservice\\obj\\",
+        "outputPath": "D:\\Repos\\VehicleTrackingAPI-Microservice\\curentpositionservice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pu_ro\\AppData\\Roaming\\NuGet\\NuGet.Config",

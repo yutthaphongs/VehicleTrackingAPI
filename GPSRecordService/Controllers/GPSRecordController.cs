@@ -7,9 +7,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using GPSRecordService.Models;
 using GPSRecordService.Repository;
-using Microsoft.Extensions.Logging;
-using EventBus.Abstractions;
-using GPSRecordService.IntegrationEvents;
 
 namespace GPSRecordService.Controllers
 {
@@ -64,7 +61,7 @@ namespace GPSRecordService.Controllers
             //     throw;
             // }
 
-            return CreatedAtAction("GetGPSRecord", new { id = gPSRecord.GPSRecordId }, gPSRecord);
+            return gPSRecord;
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PCDii9h73b9L/xJ1c+l5+mCqMw6OSdEXRqCBv+/cLal3FJX1IbCrHBiMt8KGDnDBTt/EQPMegdAmmj68vtKxpQ==",
+  "dgSpecHash": "KAoA7st6tV5fCL2hRS+mFAIqRGuzUz99URVMOR91UEW/l8B2mNLgVkqumc84J1tZZpYf4UG79HtYSnSkhNPEog==",
   "success": true,
-  "projectFilePath": "D:\\Repos\\VehicleTrackingAPI\\curentpositionservice\\CurentPositionService.csproj",
+  "projectFilePath": "D:\\Repos\\VehicleTrackingAPI-Microservice\\curentpositionservice\\CurentPositionService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pu_ro\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\pu_ro\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

@@ -12,7 +12,7 @@ namespace GPSRecordService.Repository
         {
         }
 
-        public async Task<GPSRecord> GetGPSRecordByIdAsync(int id, CancellationToken cancellationToken)
+        public async Task<GPSRecord> GetGPSRecordByIdAsync(int id)
         {
             return await _gpsRecordContext.GPSRecords.FirstOrDefaultAsync(x => x.GPSRecordId == id);
         }

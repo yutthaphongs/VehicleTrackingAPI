@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repos\\VehicleTrackingAPI\\CommonLib\\eventbus\\EventBus.csproj",
+      "projectUniqueName": "D:\\Repos\\VehicleTrackingAPI-Microservice\\CommonLib\\EventBus\\EventBus.csproj",
       "projectName": "EventBus",
-      "projectPath": "D:\\Repos\\VehicleTrackingAPI\\CommonLib\\eventbus\\EventBus.csproj",
+      "projectPath": "D:\\Repos\\VehicleTrackingAPI-Microservice\\CommonLib\\EventBus\\EventBus.csproj",
       "packagesPath": "C:\\Users\\pu_ro\\.nuget\\packages\\",
-      "outputPath": "D:\\Repos\\VehicleTrackingAPI\\CommonLib\\eventbus\\obj\\",
+      "outputPath": "D:\\Repos\\VehicleTrackingAPI-Microservice\\CommonLib\\EventBus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pu_ro\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -502,11 +502,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repos\\VehicleTrackingAPI\\CommonLib\\eventbusrabbitmq\\EventBusRabbitMQ.csproj",
+      "projectUniqueName": "D:\\Repos\\VehicleTrackingAPI-Microservice\\CommonLib\\EventBusRabbitMQ\\EventBusRabbitMQ.csproj",
       "projectName": "EventBusRabbitMQ",
-      "projectPath": "D:\\Repos\\VehicleTrackingAPI\\CommonLib\\eventbusrabbitmq\\EventBusRabbitMQ.csproj",
+      "projectPath": "D:\\Repos\\VehicleTrackingAPI-Microservice\\CommonLib\\EventBusRabbitMQ\\EventBusRabbitMQ.csproj",
       "packagesPath": "C:\\Users\\pu_ro\\.nuget\\packages\\",
-      "outputPath": "D:\\Repos\\VehicleTrackingAPI\\CommonLib\\eventbusrabbitmq\\obj\\",
+      "outputPath": "D:\\Repos\\VehicleTrackingAPI-Microservice\\CommonLib\\EventBusRabbitMQ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pu_ro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -523,8 +523,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Repos\\VehicleTrackingAPI\\CommonLib\\EventBus\\EventBus.csproj": {
-              "projectPath": "D:\\Repos\\VehicleTrackingAPI\\CommonLib\\EventBus\\EventBus.csproj"
+            "D:\\Repos\\VehicleTrackingAPI-Microservice\\CommonLib\\EventBus\\EventBus.csproj": {
+              "projectPath": "D:\\Repos\\VehicleTrackingAPI-Microservice\\CommonLib\\EventBus\\EventBus.csproj"
             }
           }
         }
